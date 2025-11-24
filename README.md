@@ -23,7 +23,7 @@
 > - [作业要求点这里](Home_Work/Home_work_1.md)    
 > - [git教程点这里](sources/git.md)  
 
-### 2.1 学习[实验室仓库](https://github.com/ZLLCmosasaurus/RMUC-2025)代码框架的基本使用
+### 2.1 学习[实验室仓库](https://github.com/ZLLCmosasaurus/ZLLC_2026)代码框架的基本使用
 
   #### 2.1.1 学习 `CAN` 协议和大疆电机使用方法以及 `pid` 控制算法
   > 学习 `drv_can.cpp` 的使用方法，了解 `can` 总线的协议和使用方法。  
